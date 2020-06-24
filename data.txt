@@ -1,0 +1,3 @@
+GIF post test;https://img-9gag-fun.9cache.com/photo/aEPxbLo_460svav1.mp4
+This is another test for a GIF.;https://img-9gag-fun.9cache.com/photo/a437g1A_460svav1.mp4
+Test for a picture-based post!;https:https://inteng-storage.s3.amazonaws.com/img/iea/yrwQvLJbON/sizes/programmer-memes_resize_md.jpg
